@@ -1,5 +1,5 @@
-# KU-ARCHITECT-PROJECT
-JAVA IMPLEMENTATION OF THE KU ARCHITECT PROJECT
+# ARCHITECT-PROJECT
+JAVA IMPLEMENTATION OF THE ARCHITECT PROJECT
 
 
-This is a console program implementing the ku architect contest.
+This is a console program implementing an architect contest.
